@@ -44,7 +44,9 @@ Instead of generic messages like *“Hey”* or *“What’s up?”*, Icebreaker
 ```
 
 ⚙️ Setup & Running the Project
+
 1️⃣ Clone the repository
+
 git clone https://github.com/<your-username>/icebreaker-ai.git
 cd icebreaker-ai
 
@@ -72,11 +74,9 @@ Icebreaker AI includes a safety layer to ensure generated messages follow platfo
 
 Requests for personal contact info (Instagram, WhatsApp, phone numbers)
 
-Harassment, toxicity, or inappropriate tone
+Harassmnt, toxicity, or inappropriate tone,
 
-Intrusive personal questions
-
-The final output is friendly, respectful, fun, and comfortable to receive.
+Intrusive personal questions,The final output is friendly, respectful, fun, and comfortable to receive.
 
 🛠 Built With
 
@@ -87,5 +87,3 @@ The final output is friendly, respectful, fun, and comfortable to receive.
 🗄 SQLite
 
 🔐 Python dotenv
-
-
