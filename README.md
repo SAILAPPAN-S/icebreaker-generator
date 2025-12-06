@@ -18,9 +18,10 @@ Instead of generic messages like *“Hey”* or *“What’s up?”*, Icebreaker
 
 ---
 
-## 🧠 Example Output
 
-```json
+
+## 🧠 Example Output
+json
 {
   "user_a": {
     "name": "Aarav",
@@ -38,7 +39,10 @@ Instead of generic messages like *“Hey”* or *“What’s up?”*, Icebreaker
       "We might have similar music taste — got playlist suggestions?"
     ]
   }
+
 }
+'''
+
 
 ⚙️ Setup & Running the Project
 1️⃣ Clone the repository
@@ -84,3 +88,4 @@ The final output is friendly, respectful, fun, and comfortable to receive.
 🗄 SQLite
 
 🔐 Python dotenv
+
