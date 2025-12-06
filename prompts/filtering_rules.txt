@@ -1,0 +1,34 @@
+Filtering Rules for Icebreaker Validation
+-----------------------------------------
+
+A generated message should be rejected if it contains:
+
+🚫 Personal Identifiers:
+- Phone number requests
+- Exact address or neighborhood
+- Last name
+- Social media requests (Instagram, Snapchat, etc.)
+- Workplace or salary requests
+
+🚫 Sensitive Categories:
+- Religion
+- Politics
+- Race or ethnicity
+- Sexual orientation inquiries
+- Mental health or medical conditions
+
+🚫 Inappropriate / Harmful Content:
+- Sexual comments or innuendo
+- Harassment, insults, discrimination
+- Manipulative or guilt-based statements
+
+🚫 Creepy or Too Direct:
+- Future commitment assumptions ("We should meet tomorrow", "We’d be a perfect couple")
+- Overly intimate tone ("I feel like I already know you")
+
+Approved Style:
+✔ fun
+✔ curious
+✔ respectful
+✔ safe
+✔ short (less than 20 words)

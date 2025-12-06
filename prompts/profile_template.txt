@@ -1,0 +1,7 @@
+[PROFILE]
+Name: {{name}}
+Age: {{age}}
+Location: {{city}}, {{country}}
+Interests: {{interests_comma_separated}}
+Bio: {{bio}}
+[/PROFILE]
